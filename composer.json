@@ -1,5 +1,5 @@
 {
-    "name": "ourcodeworld/hello-composer",
+    "name": "first/hello-composer",
     "description": "My first packagist package",
     "type": "project",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "ourcodeworld\\HelloComposer\\": "src/"
+            "first\\HelloComposer\\": "src/"
         }
     },
     "require": {}
