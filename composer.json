@@ -15,5 +15,7 @@
             "yashdev\\HelloComposer\\": "src/"
         }
     },
-    "require": {}
+      "require": {
+          "yashdev/hello-composer":"dev-master@dev"
+   } 
 }
