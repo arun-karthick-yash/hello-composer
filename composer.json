@@ -1,5 +1,5 @@
 {
-    "name": "first/hello-composer",
+    "name": "yashdev/hello-composer",
     "description": "My first packagist package",
     "type": "project",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "first\\HelloComposer\\": "src/"
+            "yashdev\\HelloComposer\\": "src/"
         }
     },
     "require": {}
