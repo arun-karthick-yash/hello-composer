@@ -18,5 +18,11 @@
     },
       "require": {
           "yashdev/hello-composer":"dev-master@dev"
-   } 
+   },
+    "repositories": [
+  {
+     "type": "vcs",
+     "url": "https://github.com/arun-karthick-yash/hello-composer" 
+  }
+]
 }
