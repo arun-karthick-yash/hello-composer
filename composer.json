@@ -10,12 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "repositories": [
-  {
-     "type": "vcs",
-     "url": "https://github.com/madskullcreations/simplicity" 
-  }
-],
+    
     "autoload": {
         "psr-4": {
             "yashdev\\HelloComposer\\": "src/"
